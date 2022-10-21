@@ -29,15 +29,25 @@ To get a local copy up and running follow these simple example steps.
   npm install npm@latest -g
   ```
 * Register a Discord bot and setup with the correct intents via https://discord.com/developers/applications
+    
     1. Name your bot: go to Applications > New Application
+    
     2. Give your bot "life": Bot > Add Bot
+    
     3. Enable "Message Content Intent" under "Privileged Gateway Intents"
+
 * Create a your own Discord server to test
+
 * Invite your new bot to your Discord server
+
     1. Create Redirect: OAUTH2 > General > Add Redirect > Add any link you want, using "https://github.com/atmcniff/CrumblBot" is an excellent choice > Save changes
+
     2. Generate URL with the necessary permissions: OAUTH2 > URL Generator > select "bot" under SCOPES > select "Send Messages" and "Manage Messages" under BOT PERMISSIONS
+
     3. Copy your generated url at the bottom and paste into a new browser window.
+
     4. Add to Server > _your test server_ > Continue
+
     5. Authorize
 
 
