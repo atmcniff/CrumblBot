@@ -1,0 +1,26 @@
+{
+  "name": "brumblbot2",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.13.1"
+  },
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Austin McNiff",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^13.3.1",
+    "discord.js-commando": "^0.12.3",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.0",
+    "path": "^0.12.7",
+    "puppeteer": "^13.0.0"
+  }
+}
