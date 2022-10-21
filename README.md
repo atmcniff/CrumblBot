@@ -57,19 +57,24 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/atmcniff/CrumblBot.git
    ```
+
 2. Install NPM packages
    ```sh
    npm install
    ```
+
 3. Create a ".env" file in the root directory and copy and paste your bot's token (Revealing your bot's token can be dnoe by going to https://discord.com/developers/applications, _select your bot_ > Bot > Reset Token)
 Example .env file with token:
    ```js
    TOKEN=OTOS898hhosdijfdt439hOHoijds892h82;
    ```
+
 4. Save changes
+
 5. Run in terminal
     ```js
    nodemon
    ```
+
 6. Start using commands in any text channel the bot has access to (Use _.help_ for all commands)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
