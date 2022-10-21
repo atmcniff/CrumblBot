@@ -57,7 +57,7 @@ Example .env file with token:
    TOKEN=OTOS898hhosdijfdt439hOHoijds892h82;
    ```
 4. Save changes
-5. Run 
+5. Run in terminal
     ```js
    nodemon
    ```
