@@ -1,0 +1,9 @@
+.env
+node_modules
+indexTest2.js
+indexTest3.js
+indexTest4.js
+src/bookies/cookies.png
+src/bookies/cookieNames.txt
+src/bookies/cookieDescs.txt
+src/bookies/cookieVid.txt
