@@ -1,8 +1,5 @@
 .env
 node_modules
-indexTest2.js
-indexTest3.js
-indexTest4.js
 src/cookies/cookies.png
 src/cookies/cookieNames.txt
 src/cookies/cookieDescs.txt
