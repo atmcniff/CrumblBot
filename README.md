@@ -1,3 +1,3 @@
 # CrumblBot
 
-A Discord bot that displays Crumbl Cookies' new cookies of the week.
+A Discord bot that displays the new rotation of cookies being sold by Crumbl Cookies.
