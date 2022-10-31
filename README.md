@@ -5,7 +5,7 @@
 
 A Discord bot that displays the new rotation of cookies being sold by [Crumbl Cookies](https://crumblcookies.com/).
 
-### Add the official bot to your server by clicking [here](https://discord.com/api/oauth2/authorize?client_id=1031345549514903633&permissions=10240&scope=bot)
+### [Click here to add the official bot to your server](https://discord.com/api/oauth2/authorize?client_id=1031345549514903633&permissions=10240&scope=bot)
 
 ### Features:
 * Displays cookies in a text channel via picture, video, or embedded message with their descriptions
